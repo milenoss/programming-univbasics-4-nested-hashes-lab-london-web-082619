@@ -31,7 +31,7 @@ def alan_kay_is_known_for
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-        binder.pry
+        
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
